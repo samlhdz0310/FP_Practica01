@@ -1,2 +1,2 @@
-# practica1_fdp
+# FP_Practica01
 Práctica de Laboratorio
